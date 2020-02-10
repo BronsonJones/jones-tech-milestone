@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    font-family: 'Poppins', serif;
+    font-size: 50px;
+    text-shadow: 5px 1px rgba(255, 110, 13, 0.582);
+}
+
+h2{
+    font-family:'Bebas Neue';
+    margin-left: 20px;
+    font-size: 30px;
+}
+hr{
+    margin-left:15px;
+    margin-right: 15px;
+}
+p{
+    margin-left:20px;
+    margin-right: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+.made{
+    text-shadow: 5px 3px rgb(255, 185, 138);
+    margin-right: 50px;
+    font-family: 'Bebas Neue';
+}
+*{
+    background-color: rgb(221, 226, 252);
+}
